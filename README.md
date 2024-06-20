@@ -71,8 +71,8 @@ Profissional dedicada e entusiasta da tecnologia com experiência em desenvolvim
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Lelesouzasilvaa&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak">
-     <img src="https://github-readme-stats.vercel.app/api?username=Lelesouzasilvaa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
+<!--     <img src="https://streak-stats.demolab.com/?user=Lelesouzasilvaa&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak">
+     <img src="https://github-readme-stats.vercel.app/api?username=Lelesouzasilvaa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"> -->
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lelesouzasilvaa&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs">
   </a>
 </div>
