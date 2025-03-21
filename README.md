@@ -55,7 +55,7 @@ Profissional dedicada e entusiasta da tecnologia com experiência em desenvolvim
         <td><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></td>
     
     </tr>
-<table>
+</table>
 <h3>Ferramentas</h3>
 <table>
     <tr>
