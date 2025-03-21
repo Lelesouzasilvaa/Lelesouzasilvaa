@@ -48,14 +48,14 @@ Profissional dedicada e entusiasta da tecnologia com experiência em desenvolvim
 </table>
 
 <h3>Frameworks</h3>
-<table>
+<table border="0">
     <tr>
         <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></td>
-        <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
-        <td><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></td>
-    
+        <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></td>
+        <td><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></td>
     </tr>
 </table>
+
 <h3>Ferramentas</h3>
 <table>
     <tr>
